@@ -1,8 +1,6 @@
 
 # Discrete Cosine Transform (DCT) Process
 
-  
-
 <p>As our use of and reliance on computers continues to grow, so too does our need for
 efficient ways of storing large amounts of data. For example, someone with a web page or
 online catalog — that uses dozens or perhaps hundreds of images — will more than likely need
@@ -37,7 +35,6 @@ Inverse Discrete Cosine Transform (IDCT).
 
 <b>Credits: </b>
 
-  
-
 1. Refferrence source : https://www.math.cuhk.edu.hk/~lmlui/dct.pdf
 2. zigzag.py has been taken from : https://github.com/amzhang1/simple-JPEG-compression
+
