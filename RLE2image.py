@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import math
 
-# Coded By: Nadeen Gamage
+# Author: Nadeen Gamage
 # Software Engineer
 # 2019
 

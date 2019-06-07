@@ -5,7 +5,7 @@ import math
 # import zigzag functions
 from zigzag import *
 
-# Coded By: Nadeen Gamage
+# Author: Nadeen Gamage
 # Software Engineer
 # 2019
 
