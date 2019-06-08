@@ -1,5 +1,5 @@
 
-# Discrete Cosine Transform (DCT) Process
+<h1> Discrete Cosine Transform (DCT) Process </h1>
 
 <p>As our use of and reliance on computers continues to grow, so too does our need for
 efficient ways of storing large amounts of data. For example, someone with a web page or
@@ -18,7 +18,7 @@ distortion can be adjusted during the compression stage. The JPEG method is used
 color and black-and-white images, but the focus of this article will be on compression of the
 latter.</p>
 
-## Process
+<h3> Process </h3>
 
 The following is a general overview of the JPEG process. Later, we will take the reader
 through a detailed tour of JPEG’s method so that a more comprehensive understanding of the
