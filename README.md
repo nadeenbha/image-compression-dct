@@ -37,4 +37,3 @@ Inverse Discrete Cosine Transform (IDCT).
 
 1. Refferrence source : https://www.math.cuhk.edu.hk/~lmlui/dct.pdf
 2. zigzag.py has been taken from : https://github.com/amzhang1/simple-JPEG-compression
-
